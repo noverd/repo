@@ -1,0 +1,12 @@
+REPO Help Menu:
+
+REPO is a program for quickly installing repositories 
+
+add - Adds a repository from the list of repositories for repo 
+
+list - Display list of repository
+
+set-repo - Sets the source of the repositories (the link to the repository should be in github and in this format: https://github.com/ <user> / <RepoName> / raw / main /) 
+
+help - Display REPO Help Menu
+
